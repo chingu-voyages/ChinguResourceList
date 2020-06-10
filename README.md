@@ -31,78 +31,78 @@ That's it! An admin with review and approve your PR. If there are any questions
 about your contribution we'll ask them or request changes through the PR
 process.
 
-### Backend 
+## Backend 
 
-#### General
+### General
 
 - [Understanding the Backend Part 1](https://medium.com/chingu/understanding-the-back-end-part-i-d65aff455d3f): What is the Backend & what does it do?
 - [Understanding the Backend Part 2](https://medium.com/chingu/understanding-the-back-end-part-ii-ba520f79a0f5): What is the Backend & what does it do?
 
-#### Database Management Systems
+### Database Management Systems
 
-##### MongoDB
+#### MongoDB
 
-##### PostgreSQL
+#### PostgreSQL
 
-##### Security
+#### Security
 
 - [An Introduction to Environement Variables & How to Use Them](https://dev.to/chingu/an-introduction-to-environment-variables-and-how-to-use-them-1ck0): Decoupling configuration from the application
 - [Protect Application Assets: How to Secure Your Secrets](https://dev.to/chingu/protect-application-assets-how-to-secure-your-secrets-1in8): Here's a hint! Your browser isn't safe.
 
-#### GraphQL
+### GraphQL
 
-### Books
+## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md): A large list of programming language books from the Ebook Foundation
 
-### Communication & Collaboration Tools
+## Communication & Collaboration Tools
 
-### Design
+## Design
 
-#### UI/UX
+### UI/UX
 
-### Frontend
+## Frontend
 
-#### CSS
+### CSS
 
-#### HTML
+### HTML
 
-#### Frameworks
+### Frameworks
 
-##### React
+#### React
 
 - [Exploit React Error Boudaries to Improve UX](https://dev.to/chingu/exploit-react-error-boundaries-to-improve-ux-hdk): How to automate error detection & reporting
 
-### Languages
+## Languages
 
-#### Javascript
+### Javascript
 
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
 
-#### Python
+### Python
 
 - [Complete list of Github Markdown Emoji's](https://gist.github.com/rxaviers/7360908): A complete list of emoji's you can use in Readme's.
 
-### Motivation
+## Motivation
 
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
 
-### Packages & Libraries
+## Packages & Libraries
 
-### Teamwork
+## Teamwork
 
-#### Agile
+### Agile
 
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17): How to embrace change in a project.
 
-#### Teams
+### Teams
 
 - [What I Learned About Group Projects](https://medium.com/chingu/what-i-learned-about-group-projects-41bbfb9ffdcd): Tips from a Chingu on how to be successful in a group project
 
-### Tools
+## Tools
 
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
 
-### Everything Else
+## Everything Else
 
 - [](): How
