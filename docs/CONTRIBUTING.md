@@ -1,13 +1,40 @@
 # Contributing
 
-We welcome all contributions. 
+We welcome all contributions. These guidelines are intended to provide
+Contributors with the information you'll need to add useful content to this 
+repo, while maintaining consistency for the reader.
 
-### Code Style
+## Process
 
-Please follow the
-[AirBnB Javascript Style Guide](https://github.com/airbnb/javascript).
+Sharing a resource is easy! 
 
-### Commit Messages
+1. Clone this repo
+2. Create a feature branch following the conventions documented in [Contributing]().
+3. Add your resource to the appropriate category & test it to make sure it
+is consistent with how other resources are formatted.
+4. Create a Pull Request (PR)
+
+That's it! An admin with review and approve your PR. If there are any questions
+about your contribution we'll ask them or request changes through the PR
+process.
+
+## Content Style
+
+Content should be added under a list of categories and subcategories. If the
+resource you are adding applies to more than one category don't duplicated it.
+Simply add it to the most relevant category.
+
+The entry you create should be follow this template:
+```
+- [resource-title](url): <one-sentence-description>
+```
+Specifying a `resource-title` and its `url` is easy since you can copy it from
+the site containing the resource. 
+
+The `<one-sentence-description>` is just that! A short description to give the
+reader an idea of what information it contains and why it's useful.
+
+## Commit Messages
 
 Commit messages should be formatted using the following pattern:
 ```
@@ -25,10 +52,6 @@ _Type_ describes the nature of the change and should be one of the following:
 - `fix`: a bug fix
 - `docs`: changes to documentation
 - `style`: formatting, missing semi colons, etc; no code change
-- `refactor`: refactoring production code
-- `test`: adding tests, refactoring test; no production code change
-- `other`: updating build tasks, package manager configs, etc; no production
-code change
 
 _Subject_ is a short imperative statement of no more than 50 characters that
 describes the intent of the commit.
@@ -46,7 +69,7 @@ associated with an issue.
 _See also_ may be used to reference any other supporting documentation. For
 example, URL's to Gist's.
 
-#### Git Branches
+### Git Branches
 
 ![Neighborhood Git Workflow](https://github.com/jdmedlock/chinguxbot/blob/development/docs/Git%20-%20Team%20Workflow.png)
 
@@ -61,14 +84,12 @@ they are working on changes and bug fixes. There are 4 basic types of branches:
 bug, feature, refactor and style, after the type comes the name, it should
 specify on top of the branch type. For example feature/course-review.
 
+## Issues
 
-Please don't include changes to `dist/` in your pull request. This should only
-be updated when releasing a new version.
+If you find an error feel free to create a PR fixing it!
 
-### Releasing
+If you are unable to do that feel free to open an 
+[issue](https://github.com/chingu-voyages/ChinguResourceList/issues). 
 
-*_TBD_*
-
-### Running Examples
-
-*_TBD_*
+You may also open an issue if you have a question or an idea for how to make 
+this repo better.
