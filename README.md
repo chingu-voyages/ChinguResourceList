@@ -1,4 +1,4 @@
-# ![Chingu Logo](./assets/ChinguLogo.svg) Chingu Resource List
+# <div align="center">![Chingu Logo](./assets/ChinguLogo.svg) <br/> Chingu Resource List</div>
 :notebook: A crowd-sourced list of resources for developers & teams
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
