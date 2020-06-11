@@ -103,6 +103,7 @@ process.
 
 ## Tools
 
+- [Introduction to Docker](https://dev.to/danko56666/intro-to-docker-3p42): An introduction into what docker is and how to use it.
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
 
 ## Everything Else
