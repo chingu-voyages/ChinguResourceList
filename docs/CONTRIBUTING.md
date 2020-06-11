@@ -9,7 +9,7 @@ repo, while maintaining consistency for the reader.
 Sharing a resource is easy! 
 
 1. Clone this repo
-2. Create a feature branch following the conventions documented in [Contributing]().
+2. Create a feature branch
 3. Add your resource to the appropriate category & test it to make sure it
 is consistent with how other resources are formatted.
 4. Create a Pull Request (PR)
