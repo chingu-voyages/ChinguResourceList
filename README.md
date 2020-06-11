@@ -65,6 +65,8 @@ process.
 
 ### CSS
 
+- [What I Learned About CSS](https://medium.com/chingu/what-i-learned-about-css-52b30cbb0625): One Chingu's insights on using CSS
+
 ### HTML
 
 ### Frameworks
@@ -105,4 +107,4 @@ process.
 
 ## Everything Else
 
-- [](): How
+- 
