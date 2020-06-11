@@ -1,7 +1,10 @@
-# :notebook: Chingu Resource List
-A crowd-sourced list of resources for developers & teams
+# <div align="center">![Chingu Logo](./assets/ChinguLogo.svg) <br/> Chingu Resource List</div>
+<div align="center">
+:notebook: A crowd-sourced list of resources for Developers & Teams :notebook:
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+
+</div>
 
 ## Contents
 
