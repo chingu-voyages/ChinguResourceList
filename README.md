@@ -49,7 +49,7 @@ process.
 
 #### Security
 
-- [An Introduction to Environement Variables & How to Use Them](https://dev.to/chingu/an-introduction-to-environment-variables-and-how-to-use-them-1ck0): Decoupling configuration from the application
+- [An Introduction to Environment Variables & How to Use Them](https://dev.to/chingu/an-introduction-to-environment-variables-and-how-to-use-them-1ck0): Decoupling configuration from the application
 - [Protect Application Assets: How to Secure Your Secrets](https://dev.to/chingu/protect-application-assets-how-to-secure-your-secrets-1in8): Here's a hint! Your browser isn't safe.
 
 ### GraphQL
@@ -86,8 +86,6 @@ process.
 
 ### Python
 
-- [Complete list of Github Markdown Emoji's](https://gist.github.com/rxaviers/7360908): A complete list of emoji's you can use in Readme's.
-
 ## Motivation
 
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
@@ -111,4 +109,5 @@ process.
 
 ## Everything Else
 
-- 
+- [Complete list of Github Markdown Emoji's](https://gist.github.com/rxaviers/7360908): A complete list of emoji's you can use in Readme's.
+- [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/): Emojis for Github, Discord, and more!
