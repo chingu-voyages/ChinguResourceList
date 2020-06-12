@@ -13,6 +13,7 @@
 - [Communication & Collaboration Tools](#communication-_-collaboration-tools)
 - [Design](#design)
 - [Frontend](#frontend)
+- [Git](#git)
 - [Languages](#languages)
 - [Packages & Libraries](#packages-_-libraries)
 - [Tools](#tools)
@@ -71,6 +72,10 @@ process.
 - [What I Learned About CSS](https://medium.com/chingu/what-i-learned-about-css-52b30cbb0625): One Chingu's insights on using CSS
 
 ### HTML
+
+## Git
+
+- [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
 
 ### Frameworks
 
