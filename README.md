@@ -73,6 +73,10 @@ process.
 
 ### HTML
 
+### General
+
+- [FlorinPop's YouTube Channel](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA): 200+ videos on HTML, CSS, JavaScript, Framworks, etc.
+
 ## Git
 
 - [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
