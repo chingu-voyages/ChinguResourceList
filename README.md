@@ -91,7 +91,10 @@ process.
 
 ### Javascript
 
+- [Deep Javascript: Theory & Techniques](https://exploringjs.com/deep-js/index.html): By Dr. Axel Rauschmayer)
+- [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
+- [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
 
 ### Python
 
