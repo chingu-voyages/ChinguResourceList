@@ -75,7 +75,9 @@ process.
 
 ### General
 
+- [The A11Y Project](https://a11yproject.com/): A community-driven effort to make web accessibility easier.
 - [FlorinPop's YouTube Channel](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA): 200+ videos on HTML, CSS, JavaScript, Framworks, etc.
+- [Responsive Web Design Basics](https://web.dev/responsive-web-design-basics/): How to create sites which respond to the needs and capabilities of the device they are viewed on.
 
 ## Git
 
