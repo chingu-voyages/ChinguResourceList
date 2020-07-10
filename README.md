@@ -75,7 +75,9 @@ process.
 
 ### General
 
+- [The A11Y Project](https://a11yproject.com/): A community-driven effort to make web accessibility easier.
 - [FlorinPop's YouTube Channel](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA): 200+ videos on HTML, CSS, JavaScript, Framworks, etc.
+- [Responsive Web Design Basics](https://web.dev/responsive-web-design-basics/): How to create sites which respond to the needs and capabilities of the device they are viewed on.
 
 ## Git
 
@@ -91,7 +93,10 @@ process.
 
 ### Javascript
 
+- [Deep Javascript: Theory & Techniques](https://exploringjs.com/deep-js/index.html): By Dr. Axel Rauschmayer)
+- [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
+- [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
 
 ### Python
 
