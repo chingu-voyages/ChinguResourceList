@@ -132,3 +132,6 @@ process.
 
 - [Complete list of Github Markdown Emoji's](https://gist.github.com/rxaviers/7360908): A complete list of emoji's you can use in Readme's.
 - [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/): Emojis for Github, Discord, and more!
+
+- [gitmoji](https://gitmoji.carloscuesta.me/): More emojis for GitHub.
+- [spam mimic](http://spammimic.com/encode.shtml): An interesting website that encodes messages to a generic spam message.
