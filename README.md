@@ -63,6 +63,11 @@ process.
 
 ## Design
 
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel): One of the best color guides to choose for your next project
+- [Color Hunt](https://colorhunt.co/): Free and open source platform for color inspiration
+- [Lorem Picsum](https://picsum.photos/): This is the Lorem Ipsum of photos, easy to use photo placeholders
+- [App Icon Generator](https://appicon.co/): Easily generate icons for your next mobile application
+
 ### UI/UX
 
 ## Frontend
