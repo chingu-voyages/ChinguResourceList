@@ -89,6 +89,7 @@ process.
 ## Git
 
 - [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Add cards showing your cumulative GitHub statistics to your profile page
 
 ### Frameworks
 
