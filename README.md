@@ -108,6 +108,16 @@ process.
 
 ### Python
 
+### Code Snippets
+
+What are your short solutions to common problems in any language? Add them to
+the table below to share with others. Be sure to add your snippet in the
+`/codesnippets` directory and comment the code for the reader.
+
+| File name       | Language   | Description                                   |
+|-----------------|------------|-----------------------------------------------|
+| [reduceObject.js](./codesnippets/reduceObject.js) | Javascript | Use `.reduce` to process and array, returning an object with the results |
+
 ## Motivation
 
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
