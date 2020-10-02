@@ -116,7 +116,7 @@ the table below to share with others. Be sure to add your snippet in the
 
 | File name       | Language   | Description                                   |
 |-----------------|------------|-----------------------------------------------|
-| reduceObject.js | Javascript | Use `.reduce` to process and array, returning an object with the results |
+| [reduceObject.js](./codesnippets/reduceObject.js) | Javascript | Use `.reduce` to process and array, returning an object with the results |
 
 ## Motivation
 
