@@ -86,16 +86,16 @@ process.
 - [Browser Support Tables](https://caniuse.com/): Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
 - [Dev Docs](https://devdocs.io/): DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start
 
-## Git
-
-- [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Add cards showing your cumulative GitHub statistics to your profile page
-
 ### Frameworks
 
 #### React
 
 - [Exploit React Error Boudaries to Improve UX](https://dev.to/chingu/exploit-react-error-boundaries-to-improve-ux-hdk): How to automate error detection & reporting
+
+## Git
+
+- [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Add cards showing your cumulative GitHub statistics to your profile page
 
 ## Languages
 
@@ -123,6 +123,11 @@ the table below to share with others. Be sure to add your snippet in the
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
 
 ## Packages & Libraries
+
+## Cloud Deployment
+
+- [Deploy React and Express to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/): Step-by-step guide to create a React/Node app and deploy to Heroku
+- [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f): Simple instructions to deploy React app on GitHub Pages
 
 ## Teamwork
 
