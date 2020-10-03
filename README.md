@@ -55,6 +55,8 @@ process.
 
 ### GraphQL
 
+- [Why GraphQL?](https://tinyurl.com/yykbgku6): Advantages of GraphQL over REST
+
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md): A large list of programming language books from the Ebook Foundation
@@ -69,6 +71,8 @@ process.
 - [App Icon Generator](https://appicon.co/): Easily generate icons for your next mobile application
 
 ### UI/UX
+
+- [UX or UI, where to focus?](https://tinyurl.com/yyn3ak2d): Understand the difference between UI & UX
 
 ## Frontend
 
@@ -86,16 +90,17 @@ process.
 - [Browser Support Tables](https://caniuse.com/): Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
 - [Dev Docs](https://devdocs.io/): DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start
 
-## Git
-
-- [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Add cards showing your cumulative GitHub statistics to your profile page
-
 ### Frameworks
 
 #### React
 
 - [Exploit React Error Boudaries to Improve UX](https://dev.to/chingu/exploit-react-error-boundaries-to-improve-ux-hdk): How to automate error detection & reporting
+- [Guidelines to improve your React folder structure](https://tinyurl.com/y6t7xa4g): How to structure a repo for React
+
+## Git
+
+- [How to Contribute on GitHub](https://www.dataschool.io/how-to-contribute-on-github/): A step-by-step guide to contributing on GitHub
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Add cards showing your cumulative GitHub statistics to your profile page
 
 ## Languages
 
@@ -108,6 +113,10 @@ process.
 
 ### Python
 
+- [How to Use Object-Oriented Programming in Python](https://tinyurl.com/yyeqqu25): Comprehensive info on OOP in Python
+- [Data Structures & Algorithms in Python](https://tinyurl.com/y4y4jfhk): Overview of internal & user-defined data structures + algorithms in Python
+- [I Thought I Was Mastering Python Until I Discovered These Tricks](https://tinyurl.com/y5hjg6ho): Tips for Python Developers
+
 ### Code Snippets
 
 What are your short solutions to common problems in any language? Add them to
@@ -116,13 +125,21 @@ the table below to share with others. Be sure to add your snippet in the
 
 | File name       | Language   | Description                                   |
 |-----------------|------------|-----------------------------------------------|
+| [formatRawDate.js](./codesnippets/formatRawDate.js) | Javascript | Format a raw date |
+| [objectToFile.js](./codesnippets/objectToFile.js) | NodeJS | Write the contents of an object array to a file |
 | [reduceObject.js](./codesnippets/reduceObject.js) | Javascript | Use `.reduce` to process and array, returning an object with the results |
+| [validateDirPath.js](./codesnippets/validateDirPath.js) | NodeJS | Validate that the path exists and is a directory |
 
 ## Motivation
 
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
 
 ## Packages & Libraries
+
+## Cloud Deployment
+
+- [Deploy React and Express to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/): Step-by-step guide to create a React/Node app and deploy to Heroku
+- [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f): Simple instructions to deploy React app on GitHub Pages
 
 ## Teamwork
 
