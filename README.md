@@ -17,6 +17,7 @@
 - [Languages](#languages)
 - [Packages & Libraries](#packages-_-libraries)
 - [Tools](#tools)
+- [Open Source Contribution](#open-source-contribution)
 - [Everything Else](#everything-else)
 
 ### How to Contribute
@@ -155,6 +156,11 @@ the table below to share with others. Be sure to add your snippet in the
 
 - [Introduction to Docker](https://dev.to/danko56666/intro-to-docker-3p42): An introduction into what docker is and how to use it.
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
+
+## Open Source Contribution
+- [A Beginner's Guide](https://dev.to/dailydotdev/how-to-contribute-to-open-source-projects-as-a-beginner-2h43)
+- [How to link your PR to an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+- [How to create a PR on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#update-local-repository)
 
 ## Everything Else
 
