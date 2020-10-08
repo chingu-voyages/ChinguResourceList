@@ -108,6 +108,7 @@ process.
 
 ### Javascript
 
+- [Beginner's Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=beginner-c9-niner): 51-part Javascript beginners course by Microsoft
 - [Deep Javascript: Theory & Techniques](https://exploringjs.com/deep-js/index.html): By Dr. Axel Rauschmayer)
 - [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
