@@ -17,6 +17,7 @@
 - [Languages](#languages)
 - [Packages & Libraries](#packages-_-libraries)
 - [Tools](#tools)
+- [Open Source Contribution](#open-source-contribution)
 - [Everything Else](#everything-else)
 
 ### How to Contribute
@@ -69,6 +70,7 @@ process.
 - [Color Hunt](https://colorhunt.co/): Free and open source platform for color inspiration
 - [Lorem Picsum](https://picsum.photos/): This is the Lorem Ipsum of photos, easy to use photo placeholders
 - [App Icon Generator](https://appicon.co/): Easily generate icons for your next mobile application
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/): Contrast & Color Accessibility Checker
 
 ### UI/UX
 
@@ -106,6 +108,7 @@ process.
 
 ### Javascript
 
+- [Beginner's Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=beginner-c9-niner): 51-part Javascript beginners course by Microsoft
 - [Deep Javascript: Theory & Techniques](https://exploringjs.com/deep-js/index.html): By Dr. Axel Rauschmayer)
 - [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
@@ -155,6 +158,11 @@ the table below to share with others. Be sure to add your snippet in the
 
 - [Introduction to Docker](https://dev.to/danko56666/intro-to-docker-3p42): An introduction into what docker is and how to use it.
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
+
+## Open Source Contribution
+- [A Beginner's Guide](https://dev.to/dailydotdev/how-to-contribute-to-open-source-projects-as-a-beginner-2h43)
+- [How to link your PR to an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+- [How to create a PR on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#update-local-repository)
 
 ## Everything Else
 
