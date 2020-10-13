@@ -26,7 +26,7 @@ Welcome to the crowd-sourced list of Developer resources sponsored by
 
 Sharing a resource is easy! 
 
-1. Clone this repo
+1. Fork this repo and clone onto your local machine
 2. Create a feature branch following the conventions documented in [Contributing](https://github.com/chingu-voyages/ChinguResourceList/blob/development/docs/CONTRIBUTING.md).
 3. Add your resource to the appropriate category & test it to make sure it
 is consistent with how other resources are formatted.
