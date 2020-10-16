@@ -81,6 +81,11 @@ process.
 ### CSS
 
 - [What I Learned About CSS](https://medium.com/chingu/what-i-learned-about-css-52b30cbb0625): One Chingu's insights on using CSS
+- [CSS Tricks](https://css-tricks.com/): Helpful articles, videos, and guides.  Highly recommended the guides for flexbox and grid.
+- [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox as you place the frog on the lily pad in this in-browser game.
+- [Flexbox Defense](http://www.flexboxdefense.com/): Another in-browser game to level up your flexbox skills.
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Master flexbox as you defeat zombies with this coding game.
+- [CSS Diner](https://flukeout.github.io/): Learn more about the types of CSS selectors with this in-browser game.
 
 ### HTML
 
