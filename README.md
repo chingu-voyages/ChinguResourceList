@@ -118,6 +118,8 @@ process.
 - [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
 - [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
+- [You Dont Know JavaScript](https://github.com/getify/You-Dont-Know-JS): Book series diving deep into the core mechanisms of JavaScript
+- [JavaScript 30](https://javascript30.com/): Build 30 things with vanilla JS in 30 days with 30 tutorials
 
 ### Python
 
