@@ -81,6 +81,11 @@ process.
 ### CSS
 
 - [What I Learned About CSS](https://medium.com/chingu/what-i-learned-about-css-52b30cbb0625): One Chingu's insights on using CSS
+- [CSS Tricks](https://css-tricks.com/): Helpful articles, videos, and guides.  Highly recommend the guides for flexbox and grid.
+- [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox as you place the frog on the lily pad in this in-browser game.
+- [Flexbox Defense](http://www.flexboxdefense.com/): Another in-browser game to level up your flexbox skills.
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Master flexbox as you defeat zombies with this coding game.
+- [CSS Diner](https://flukeout.github.io/): Learn more about the types of CSS selectors with this in-browser game.
 
 ### HTML
 
@@ -113,6 +118,8 @@ process.
 - [Javascript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html): By Dr. Axel Rauschmayer
 - [Looping over arrays & objects in Javascript](https://medium.com/chingu/looping-over-arrays-and-objects-in-javascript-57e1188c1ba2): Options for looping
 - [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
+- [You Dont Know JavaScript](https://github.com/getify/You-Dont-Know-JS): Book series diving deep into the core mechanisms of JavaScript
+- [JavaScript 30](https://javascript30.com/): Build 30 things with vanilla JS in 30 days with 30 tutorials
 
 ### Python
 
