@@ -91,8 +91,11 @@ process.
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Master flexbox as you defeat zombies with this coding game
 - [CSS Diner](https://flukeout.github.io/): Learn more about the types of CSS selectors with this in-browser game
 - [Grid Garden](https://cssgridgarden.com/): Learn CSS Grid with an in-browser game
+- [CSS Reference](https://cssreference.io/): CSS Reference is a free visual guide to CSS
 
 ### HTML
+
+- [HTML Reference](https://htmlreference.io/): A free guide to all HTML elements and attributes
 
 ### General
 
