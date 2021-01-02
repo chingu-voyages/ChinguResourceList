@@ -75,27 +75,38 @@ process.
 ### UI/UX
 
 - [UX or UI, where to focus?](https://tinyurl.com/yyn3ak2d): Understand the difference between UI & UX
+- [UI Goodies](http://www.uigoodies.com/): Variety of UI resources for designers
+- [Adobe XD](https://www.adobe.com/products/xd.html): Free program to create design prototypes
+- [Daily XD Creative Challenges](https://www.behance.net/challenge/xd): Learn Adobe XD with daily challenges and videos, scroll to the bottom to see previous challenges
+- [Let's XD](https://letsxd.com/): Learn Adobe XD at your own pace with videos and exercises
 
 ## Frontend
 
 ### CSS
 
 - [What I Learned About CSS](https://medium.com/chingu/what-i-learned-about-css-52b30cbb0625): One Chingu's insights on using CSS
-- [CSS Tricks](https://css-tricks.com/): Helpful articles, videos, and guides.  Highly recommend the guides for flexbox and grid.
-- [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox as you place the frog on the lily pad in this in-browser game.
-- [Flexbox Defense](http://www.flexboxdefense.com/): Another in-browser game to level up your flexbox skills.
-- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Master flexbox as you defeat zombies with this coding game.
-- [CSS Diner](https://flukeout.github.io/): Learn more about the types of CSS selectors with this in-browser game.
+- [CSS Tricks](https://css-tricks.com/): Helpful articles, videos, and guides.  Highly recommend the guides for flexbox and grid
+- [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox as you place the frog on the lily pad in this in-browser game
+- [Flexbox Defense](http://www.flexboxdefense.com/): Another in-browser game to level up your flexbox skills
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Master flexbox as you defeat zombies with this coding game
+- [CSS Diner](https://flukeout.github.io/): Learn more about the types of CSS selectors with this in-browser game
+- [Grid Garden](https://cssgridgarden.com/): Learn CSS Grid with an in-browser game
+- [CSS Reference](https://cssreference.io/): CSS Reference is a free visual guide to CSS
 
 ### HTML
+
+- [HTML Reference](https://htmlreference.io/): A free guide to all HTML elements and attributes
 
 ### General
 
 - [The A11Y Project](https://a11yproject.com/): A community-driven effort to make web accessibility easier.
+- [a11y Resources](https://a11yresources.webflow.io/): A growing list of accessibility tools and resources
 - [FlorinPop's YouTube Channel](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA): 200+ videos on HTML, CSS, JavaScript, Framworks, etc.
 - [Responsive Web Design Basics](https://web.dev/responsive-web-design-basics/): How to create sites which respond to the needs and capabilities of the device they are viewed on.
 - [Browser Support Tables](https://caniuse.com/): Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
 - [Dev Docs](https://devdocs.io/): DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start
+- [Frontend Mentor](https://www.frontendmentor.io/): Improve your front-end coding skills by building real projects
+- [Catchafire](https://www.catchafire.org/): Volunteer your skills and make a difference virtually (variety of skills including web design and development)
 
 ### Frameworks
 
