@@ -132,6 +132,7 @@ process.
 - [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
 - [You Dont Know JavaScript](https://github.com/getify/You-Dont-Know-JS): Book series diving deep into the core mechanisms of JavaScript
 - [JavaScript 30](https://javascript30.com/): Build 30 things with vanilla JS in 30 days with 30 tutorials
+- [Javascript Questions](https://github.com/lydiahallie/javascript-questions): JS Questions & Answers for interview prep!
 
 ### Python
 
