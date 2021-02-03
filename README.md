@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [APIs](#apis)
 - [Backend](#backend)
 - [Books](#books)
 - [Communication & Collaboration Tools](#communication-_-collaboration-tools)
@@ -35,6 +36,16 @@ is consistent with how other resources are formatted.
 That's it! An admin with review and approve your PR. If there are any questions
 about your contribution we'll ask them or request changes through the PR
 process.
+
+## APIs
+
+Whether it's for commercial apps or portfolio projects Developers depend on quality sources of data. Here are a few that have captured our attention!
+
+- [Data.gov](https://www.data.gov/)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Nasa](https://nasa.github.io/data-nasa-gov-frontpage/data_visualizations.html)
+- [UN Open Data Portal](https://undatacatalog.org/open-data-portals)
+- [Open Data Network](https://www.opendatanetwork.com/)
 
 ## Backend 
 
@@ -132,6 +143,7 @@ process.
 - [Tackling Typescript: Upgrading from Javascript](https://exploringjs.com/tackling-ts/index.html): By Dr. Axel Rauschmayer
 - [You Dont Know JavaScript](https://github.com/getify/You-Dont-Know-JS): Book series diving deep into the core mechanisms of JavaScript
 - [JavaScript 30](https://javascript30.com/): Build 30 things with vanilla JS in 30 days with 30 tutorials
+- [Javascript Questions](https://github.com/lydiahallie/javascript-questions): JS Questions & Answers for interview prep!
 
 ### Python
 
