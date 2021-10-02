@@ -11,21 +11,22 @@
 - [APIs](#apis)
 - [Backend](#backend)
 - [Books](#books)
-- [Communication & Collaboration Tools](#communication-_-collaboration-tools)
+- [Communication & Collaboration Tools](#communication-and-collaboration-tools)
 - [Design](#design)
 - [Frontend](#frontend)
 - [Git](#git)
 - [Languages](#languages)
-- [Packages & Libraries](#packages-_-libraries)
+- [Packages & Libraries](#packages-and-libraries)
 - [Tools](#tools)
 - [Open Source Contribution](#open-source-contribution)
 - [Everything Else](#everything-else)
 
 ### How to Contribute
-Welcome to the crowd-sourced list of Developer resources sponsored by 
+
+Welcome to the crowd-sourced list of Developer resources sponsored by
 [Chingu](https://chingu.io). We welcome your contributions and comments.
 
-Sharing a resource is easy! 
+Sharing a resource is easy!
 
 1. Fork this repo and clone onto your local machine
 2. Create a feature branch following the conventions documented in [Contributing](https://github.com/chingu-voyages/ChinguResourceList/blob/development/docs/CONTRIBUTING.md).
@@ -47,7 +48,7 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 - [UN Open Data Portal](https://undatacatalog.org/open-data-portals)
 - [Open Data Network](https://www.opendatanetwork.com/)
 
-## Backend 
+## Backend
 
 ### General
 
@@ -57,6 +58,8 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 ### Database Management Systems
 
 #### MongoDB
+
+- [MongoDB Basics](https://university.mongodb.com/courses/M001/about): Learn the fundamentals of MongoDB.
 
 #### PostgreSQL
 
@@ -73,7 +76,7 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md): A large list of programming language books from the Ebook Foundation
 
-## Communication & Collaboration Tools
+## Communication and Collaboration Tools
 
 ## Design
 
@@ -123,8 +126,24 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 
 #### React
 
+- [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/):  Introduces the most important React concepts in a detailed, beginner-friendly way.
+
 - [Exploit React Error Boudaries to Improve UX](https://dev.to/chingu/exploit-react-error-boundaries-to-improve-ux-hdk): How to automate error detection & reporting
 - [Guidelines to improve your React folder structure](https://tinyurl.com/y6t7xa4g): How to structure a repo for React
+
+- [All React Hooks](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A): For complete understanding of Hooks in React (Video)
+
+#### Angular
+
+- [Testing Angular](https://testing-angular.com/introduction/#introduction): A Guide to Robust Angular Applications
+
+- [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ): Full Tutorial Course
+
+- [Angular 11 Project](https://www.youtube.com/watch?v=LiOzTQAz13Q): Learn how to create an Angular 11 project from scratch in this full course
+
+#### Vue
+
+- [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 
 ## Git
 
@@ -168,7 +187,7 @@ the table below to share with others. Be sure to add your snippet in the
 
 - [You Know More Than You Think](https://medium.com/chingu/you-know-more-than-you-think-231cb232a578): How build up your confidence as a Dev
 
-## Packages & Libraries
+## Packages and Libraries
 
 ## Cloud Deployment
 
@@ -191,6 +210,7 @@ the table below to share with others. Be sure to add your snippet in the
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
 
 ## Open Source Contribution
+
 - [A Beginner's Guide](https://dev.to/dailydotdev/how-to-contribute-to-open-source-projects-as-a-beginner-2h43)
 - [How to link your PR to an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 - [How to create a PR on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#update-local-repository)
