@@ -1,12 +1,12 @@
 # Contributing
 
 We welcome all contributions. These guidelines are intended to provide
-Contributors with the information you'll need to add useful content to this 
+Contributors with the information you'll need to add useful content to this
 repo, while maintaining consistency for the reader.
 
 ## Process
 
-Sharing a resource is easy! 
+Sharing a resource is easy!
 
 1. Clone this repo
 2. Create a feature branch
@@ -14,14 +14,14 @@ Sharing a resource is easy!
 is consistent with how other resources are formatted.
 4. Create a Pull Request (PR)
 
-That's it! An admin with review and approve your PR. If there are any questions
+That's it! An admin will review and approve your PR. If there are any questions
 about your contribution we'll ask them or request changes through the PR
 process.
 
 ## Content Style
 
 Content should be added under a list of categories and subcategories. If the
-resource you are adding applies to more than one category don't duplicated it.
+resource you are adding applies to more than one category don't duplicate it.
 Simply add it to the most relevant category.
 
 The entry you create should be follow this template:
@@ -29,7 +29,7 @@ The entry you create should be follow this template:
 - [resource-title](url): <one-sentence-description>
 ```
 Specifying a `resource-title` and its `url` is easy since you can copy it from
-the site containing the resource. 
+the site containing the resource.
 
 The `<one-sentence-description>` is just that! A short description to give the
 reader an idea of what information it contains and why it's useful.
@@ -88,8 +88,8 @@ specify on top of the branch type. For example feature/course-review.
 
 If you find an error feel free to create a PR fixing it!
 
-If you are unable to do that feel free to open an 
-[issue](https://github.com/chingu-voyages/ChinguResourceList/issues). 
+If you are unable to do that feel free to open an
+[issue](https://github.com/chingu-voyages/ChinguResourceList/issues).
 
-You may also open an issue if you have a question or an idea for how to make 
+You may also open an issue if you have a question or an idea for how to make
 this repo better.
