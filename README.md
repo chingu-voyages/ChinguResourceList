@@ -19,6 +19,7 @@
 - [Packages & Libraries](#packages-and-libraries)
 - [Tools](#tools)
 - [Open Source Contribution](#open-source-contribution)
+- [Productivity Tools](#productivity-tools)
 - [Everything Else](#everything-else)
 
 ### How to Contribute
@@ -214,6 +215,24 @@ the table below to share with others. Be sure to add your snippet in the
 - [A Beginner's Guide](https://dev.to/dailydotdev/how-to-contribute-to-open-source-projects-as-a-beginner-2h43)
 - [How to link your PR to an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 - [How to create a PR on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#update-local-repository)
+
+## Productivity Tools
+
+- [Cloudinary](https://cloudinary.com/): A media service that stores, transforms, optimises, and delivers all your media assets.
+- [Sourcegraph](https://sourcegraph.com/): A software tool that allows you search all of your code.
+- [Insomnia](https://insomnia.rest/): A software tool to test API endpoints.
+- [Netlify](https://www.netlify.com/): Build, deploy, and scale modern web projects.
+- [Retool](https://retool.com/): Build internal tools without writing a line of code.
+- [Laravel Forge](https://forge.laravel.com/): Provision and deploy unlimited PHP applications.
+- [AWS Amplify](https://aws.amazon.com/amplify/): Fastest, easiest way to build mobile and web apps that scale.
+- [Auth0](https://auth0.com/): An easy to implement, adaptable authentication and authorisation platform.
+- [Garden](https://garden.io/): A cloud service that enables fast and efficient Kubernetes development.
+- [Bitrise](https://www.bitrise.io/): A fast, flexible, and scalable mobile CI/CD that simplifies development and deployment of mobile apps.
+- [Vercel](https://vercel.com/): Build and publish any front-end application in less than three clicks.
+- [EasyCron](https://www.easycron.com/): A service that runs all your cron jobs for you on the cloud.
+- [WakaTime](https://wakatime.com/): A tool that automatically report stats and metrics right from your code editor.
+- [EverSQL](https://www.eversql.com/): A service that predict performance bottlenecks and optimize SQL queries, using AI.
+- [Ngrok](https://ngrok.com/): A tool that provides an instant, secure URL to your localhost server through any NAT or firewall.
 
 ## Everything Else
 
