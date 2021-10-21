@@ -64,7 +64,10 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 
 #### PostgreSQL
 
-#### Security
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/): Quick guide to learn PostgreSQL quickly.
+
+
+### Security
 
 - [An Introduction to Environment Variables & How to Use Them](https://dev.to/chingu/an-introduction-to-environment-variables-and-how-to-use-them-1ck0): Decoupling configuration from the application
 - [Protect Application Assets: How to Secure Your Secrets](https://dev.to/chingu/protect-application-assets-how-to-secure-your-secrets-1in8): Here's a hint! Your browser isn't safe.
