@@ -149,6 +149,10 @@ Whether it's for commercial apps or portfolio projects Developers depend on qual
 
 - [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 
+#### NextJs
+- [Getting Started with NextJS](https://nextjs.org/docs/getting-started): Documentation on getting started with NextJs
+- [Intro to NextJS Features](https://www.freecodecamp.org/news/nextjs-tutorial/): A breakdown of NextJs features by FreeCodeCamp
+
 ## Git
 
 - [GitExplorer](https://gitexplorer.com/): Find the right git commands you need without digging through the web
@@ -212,7 +216,7 @@ the table below to share with others. Be sure to add your snippet in the
 
 - [Introduction to Docker](https://dev.to/danko56666/intro-to-docker-3p42): An introduction into what docker is and how to use it.
 - [Zenhub 101: The Essential Guide](https://medium.com/chingu/zenhub-101-the-essential-guide-da46ce7aff9d): How to effectively use ZenHub to manage & track projects
-
+- [Introduction to Authentication with NextAuth](https://www.nextauth.org/add-google-authentication-to-nextjs): How to add authentication to your NextJs applications using NextAuth as an example
 ## Open Source Contribution
 
 - [A Beginner's Guide](https://dev.to/dailydotdev/how-to-contribute-to-open-source-projects-as-a-beginner-2h43)
